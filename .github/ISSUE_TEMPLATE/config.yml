@@ -1,5 +1,2 @@
 blank_issues_enabled: true
 contact_links:
-  - name: "Mutual Aid: Service Release"
-    url: https://github.com/AWiderDotNET/mutual-aid/issues?template=service-release
-    about: "Add/Update a Service in our Service Catalog"
