@@ -1,6 +1,6 @@
 ---
 name: "Mutual Aid: Service Release"
-description: "Release a new service or service version into the catalog"
+about: "Release a new service or service version into the catalog"
 title: "Service Release: [TODO: ServiceName] [TODO: Version]"
 labels: service-release
 ---
